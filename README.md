@@ -4,6 +4,12 @@ Graduate engineering researcher and technical problem-solver working across oper
 
 ## Featured Technical Projects
 
+### [PortLab Desktop](https://github.com/Rezwanm381/portlab-desktop)
+
+Offline Python desktop laboratory for reported annual port-history forecasts, finite-resource vessel simulation, conditional operating comparisons, and recorded 3D replay. The project exposes synthetic input labels, forecast errors, and operational validation status.
+
+**Technical focus:** discrete-event simulation · port operations · rolling-origin evaluation · native Python GUI · recorded 3D replay · scenario verification
+
 ### [Continuous FMEA Risk Monitoring](https://github.com/Rezwanm381/continuous-fmea-risk-monitoring)
 
 Condition-informed FMEA decision-support prototype using NASA C-MAPSS benchmark data, grouped engine validation, temporal leakage controls, and event-level risk evaluation.
